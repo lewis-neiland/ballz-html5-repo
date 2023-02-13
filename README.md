@@ -43,14 +43,14 @@ Apply force to all Balls (Up, Down, Left, Right).
 Pauses the simulation.
 
 #### G - Toggle Gravity
-Toggles the gravity
+Toggles simulation gravity.
 ##### Alt - Set a custom gravity.
 
 #### M - Toggle Map
 Toggle the MiniMap.
 
 #### V - Toggle Velocity Lines
-Toggle lines and a colour mode on balls that shows their velocity and direction. Will display the opposite on the MiniMap.
+Toggle lines and a colour mode on balls that shows indivdual velocity and direction. Will display the opposite on the MiniMap.
 ##### Alt - Toggle dark and light mode.
 
 #### ESC - Exit
