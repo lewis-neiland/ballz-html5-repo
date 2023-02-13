@@ -8,8 +8,7 @@ Listed below are the controls. Pressing <em>Shift</em> will toggle alt functions
 ### Generation/Editing
 #### N - New Ball
 Generate a new Ball that will be spawned with Mode 1. The size, shape, weight and colour are randomised.
-##### Alt - Custom Ball
-Generate a Ball with custom parameters.
+##### Alt - Generate a Ball with custom parameters.
 
 #### Z - Undo
 Remove the last spawned ball from the simulation and put it as the current spawnable ball.
@@ -40,8 +39,7 @@ Pauses the simulation.
 
 #### G - Toggle Gravity
 Toggles the gravity
-##### Alt - Set Gravity
-Set a custom gravity.
+##### Alt - Set a custom gravity.
 
 #### M - Toggle Map
 Toggle the MiniMap.
@@ -53,8 +51,8 @@ Toggle lines and a colour mode on balls that shows their velocity and direction.
 #### ESC - Exit
 Return to the Main Menu.
 
+## Play Here:
+https://soggy157.itch.io/ballz
+
 ## Supports
 PC and Mobile Devices.
-
-## Play Here:
-<iframe frameborder="0" src="https://itch.io/embed/1734753?bg_color=ffffff&amp;fg_color=000000&amp;link_color=fa5c5c&amp;border_color=333333" width="552" height="167"><a href="https://soggy157.itch.io/ballz">Ballz.js by Soggy157</a></iframe>
