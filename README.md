@@ -20,8 +20,7 @@ Clear all Balls/Walls from the Simulation.
 ### Modes (Keys 1-4)
 #### 1 - Place 
 Left click spawns a Ball depending on your mouse location.
-##### Alt - Draw
-Dragging the mouse while left clicking will continuously spawn Balls.
+##### Alt - Dragging the mouse while left clicking will continuously spawn Balls.
 
 #### 2 - Copy
 Acts as a dropper. Left clicking on a spawned Ball will make it your current Ball.
@@ -49,8 +48,7 @@ Toggle the MiniMap.
 
 #### V - Toggle Velocity Lines
 Toggle lines and a colour mode on balls that shows their velocity and direction. Will display the opposite on the MiniMap.
-##### Alt - Dark/Light Mode
-Toggle dark and light mode.
+##### Alt - Toggle dark and light mode.
 
 #### ESC - Exit
 Return to the Main Menu.
