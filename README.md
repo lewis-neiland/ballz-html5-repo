@@ -1,5 +1,5 @@
 # ballz-html5-repo
-Making use of p5.js, this is an program that lets you place and manipulate balls with (questionable) physics.
+Making use of p5.js, this is a web program that lets you place and manipulate balls with (questionable) physics.
 It was made at a time where I was learning programming, so it's very shoddy, unoptimised, and awfully coded. Because of this, it won't be updated any further.
 
 ## Play Here:
@@ -43,14 +43,14 @@ Apply force to all Balls (Up, Down, Left, Right).
 Pauses the simulation.
 
 #### G - Toggle Gravity
-Toggles the gravity
+Toggles simulation gravity.
 ##### Alt - Set a custom gravity.
 
 #### M - Toggle Map
 Toggle the MiniMap.
 
 #### V - Toggle Velocity Lines
-Toggle lines and a colour mode on balls that shows their velocity and direction. Will display the opposite on the MiniMap.
+Toggle lines and a colour mode on balls that shows indivdual velocity and direction. Will display the opposite on the MiniMap.
 ##### Alt - Toggle dark and light mode.
 
 #### ESC - Exit
