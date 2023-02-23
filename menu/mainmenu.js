@@ -349,7 +349,7 @@ function draw(){
         text("Click to Start", width/2, height - 25);
         pop();
 
-        stroke(0); //Update Log Backdrop
+        /*stroke(0); //Update Log Backdrop
         fill(0, 150);
         rectMode(CORNER);
         rect(5, (5) * guiScale , 426 * guiScale, 310 * guiScale);
@@ -377,7 +377,7 @@ function draw(){
         "+ draw moved to be the 'alt' of place (shift + 1)\n" +
         "+ further improvements to ball/wall collision (try resizing!)\n\n"
         ,
-        10, (25) * guiScale);
+        10, (25) * guiScale);*/
     }
 
     fill(0, 150);
@@ -391,7 +391,7 @@ function draw(){
     stroke(0);
     fill(255,255);
     
-    text("Lewis Neiland/Soggy157  2022", 
+    text("Lewis Neiland/Soggy157  2023", 
     10, height - (10) * guiScale);
 
     if(loading){
