@@ -5,7 +5,7 @@ It was made at a time where I was learning programming, so it's very shoddy, uno
 ## Play Here:
 https://sgy157.github.io/ballz-html5-repo/
 
-### Itch.Io Version: https://soggy157.itch.io/ballz
+### Itch.Io Mirror: https://soggy157.itch.io/ballz
 
 ## Controls
 Listed below are the controls. Pressing <em>Shift</em> will toggle alt functions.
@@ -59,7 +59,7 @@ Return to the Main Menu.
 ## Play Here:
 https://sgy157.github.io/ballz-html5-repo/
 
-### Itch.Io Version: https://soggy157.itch.io/ballz
+### Itch.Io Mirror: https://soggy157.itch.io/ballz
 
 ## Supports
 PC and Mobile Devices.
