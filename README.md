@@ -1,6 +1,6 @@
 # ballz-html5-repo
 Making use of p5.js, this is a web program that lets you place and manipulate balls with (questionable) physics.
-It was made at a time where I was learning programming, so it's very shoddy, unoptimised, and awfully coded. Because of this, it won't be updated any further.
+It was made at a time where I was learning JavaScript, so it's very shoddy, unoptimised, and awfully coded. Because of this, it won't be updated any further.
 
 ## Play Here:
 https://sgy157.github.io/ballz-html5-repo/
