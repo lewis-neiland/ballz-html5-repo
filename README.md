@@ -3,7 +3,7 @@ Making use of p5.js, this is a web program that lets you place and manipulate ba
 It was made at a time where I was learning JavaScript, meaning it isn't as optimised as it should be. Because of this, it won't be updated any further.
 
 ## Play Here:
-[https://sgy157.github.io/ballz-html5-repo/](https://lewis-neiland.github.io/ballz-html5-repo)
+https://lewis-neiland.github.io/ballz-html5-repo
 
 ### Itch.Io Mirror: https://soggy157.itch.io/ballz
 
@@ -57,7 +57,7 @@ Toggle lines and a colour mode on balls that shows indivdual velocity and direct
 Return to the Main Menu.
 
 ## Play Here:
-[https://sgy157.github.io/ballz-html5-repo/](https://lewis-neiland.github.io/ballz-html5-repo)
+https://lewis-neiland.github.io/ballz-html5-repo
 
 ### Itch.Io Mirror: https://soggy157.itch.io/ballz
 
