@@ -391,7 +391,7 @@ function draw(){
     stroke(0);
     fill(255,255);
     
-    text("Lewis Neiland/Soggy157  2023", 
+    text("Lewis Neiland  2023", 
     10, height - (10) * guiScale);
 
     if(loading){
