@@ -57,7 +57,5 @@ Return to the Main Menu.
 ## Play Here:
 https://lewis-neiland.github.io/ballz-html5-repo
 
-### Itch.Io Mirror: https://soggy157.itch.io/ballz
-
 ## Supports
 PC and Mobile Devices.
