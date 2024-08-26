@@ -5,8 +5,6 @@ It was made at a time where I was learning JavaScript, meaning it isn't as optim
 ## Play Here:
 https://lewis-neiland.github.io/ballz-html5-repo
 
-### Itch.Io Mirror: https://soggy157.itch.io/ballz
-
 ## Controls
 Listed below are the controls. Pressing <em>Shift</em> will toggle alt functions.
 
